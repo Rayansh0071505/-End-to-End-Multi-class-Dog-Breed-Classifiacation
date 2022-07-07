@@ -20,3 +20,5 @@ The evaluation is a file with prediction probabilities for each dog breed of tes
 * The dataset contain more than 120 breeds of dog (this mean there are more 120 different classes)
 
 * There are 10k+ image in training (have label) and testing (no label as we are predicting them)
+
+Dataset - https://www.kaggle.com/competitions/dog-breed-identification/data
