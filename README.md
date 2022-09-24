@@ -1,7 +1,7 @@
-# End-to-End Multi-class Dog Breed Classifiacation
+# End-to-End Multi-class Dog Breed Classification
 ## 1. Problem
 
-Identyfying the breed of dog given
+Identifying the breed of dog given
 
 when im sitting cafe and i take photo of dog, i want to know what breed of dog is it
 
